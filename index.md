@@ -204,9 +204,44 @@ That's how you filter the message posted by "snsapi_test".
 You can of course write more complex logics. 
 Now you have **STDIN/STDOUT**, what you can not do? 
 
-## What's Next
+## Try It Out!
 
+Congratulations! You already get a overall picture of snscli. 
+Now, let's enter the 10-minute step by step tutorial:
 
+   * First you need [Python2.7](http://www.python.org/getit/releases/2.7/). 
+   * Get a copy of SNSAPI: [Download SNSAPI 0.1](down/snsapi-0.1.zip); 
+   Or go to [Github](https://github.com/uxian/snsapi) for latest development branch. 
+   * Unzip the package and 
+   
+```
+python -i snscli.py
+```
+
+We have integrated a tutorial in snscli. Just do the following:
+
+```
+>>> print tut
+ 
+Section 0. Introduction
+    
+    This tutorial will present the basics of 
+    SNSAPI to you. We'll walk you through 
+    configuring, authorising, reading timeline,
+    updating status, replying to one status, etc. 
+
+    To navigate this tutorial, you need:
+    >>> tut.next() # move to next section
+    >>> tut.prev() # move to previous section
+
+    Note that "print tut" is the shortcut
+    to move to the next section. 
+
+    The tutorial will loop around after it hits 
+    the last section. 
+```
+
+There are 10 sections to walk you through basic operations of snsapi. 
 
 ----------------
 
