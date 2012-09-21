@@ -1,5 +1,16 @@
 # SNSAPI -- Your Fist Hop to Reshape the Landscape of SNS!
 
+```
+https://snsapi.ie.cuhk.edu.hk/        _       |
+----------------------------->       (_)      X
+  ___   _ __    ___    __ _   _ __    _    --X+X--
+ / __| | '_ \  / __|  / _` | | '_ \  | |      X 
+ \__ \ | | | | \__ \ | (_| | | |_) | | |      |
+ |___/ |_| |_| |___/  \__,_| | .__/  |_|
+                             | |  -----------------
+                             |_|  reshape SNS world
+```
+
 ## Quick Links
 
    * SNSAPI website: [https://snsapi.ie.cuhk.edu.hk/](https://snsapi.ie.cuhk.edu.hk/)
@@ -258,18 +269,6 @@ Here's a few pointers:
    and [join us](https://github.com/uxian/snsapi). 
    Contribute codes, wikis, issues, etc. 
    All are welcome. 
-
-```
-                                      _ 
-                                     (_)
-  ___   _ __    ___    __ _   _ __    _ 
- / __| | '_ \  / __|  / _` | | '_ \  | |
- \__ \ | | | | \__ \ | (_| | | |_) | | |
- |___/ |_| |_| |___/  \__,_| | .__/  |_|
-                             | |        
-                             |_|        
-
-```
 
 ----------------
 
