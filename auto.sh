@@ -9,5 +9,6 @@ PWD=`pwd`
 #echo $PWD
 
 git pull
+bash ./compile.sh
 
 exit 0
