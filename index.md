@@ -243,6 +243,22 @@ Section 0. Introduction
 
 There are 10 sections to walk you through basic operations of snsapi. 
 
+## What's Next?
+
+SNSAPI is more than what we presented here. 
+We only present a preliminary demo of snscli for all users convenience. 
+If you know how to code, please look into the project. 
+Here's a few pointers:
+
+   * Modify "snsconf.py" which contains some hardcode configurations. 
+   e.g. write log to file. 
+   * Look at the sample applications in "app" folder. 
+   You will soon find how to write application based on Python class interface. 
+   * Register one account on [Github](https://github.com/)
+   and [join us](https://github.com/uxian/snsapi). 
+   Contribute codes, wikis, issues, etc. 
+   All are welcome. 
+
 ----------------
 
 Last Compile At: 
