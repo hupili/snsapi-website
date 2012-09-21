@@ -16,6 +16,22 @@ https://snsapi.ie.cuhk.edu.hk/        _       |
    * SNSAPI website: [https://snsapi.ie.cuhk.edu.hk/](https://snsapi.ie.cuhk.edu.hk/)
    * Github repository: [https://github.com/uxian/snsapi](https://github.com/uxian/snsapi)
 
+{evermd:comment:begin}
+## Motivation
+
+   * No longer be slaved by so many different platforms. 
+   * Now they are all channels. 
+   * Focus more on information itself rather than where and how to get it. 
+{evermd:comment:end}
+
+## It Is
+
+   * A Python **middleware** for all kinds of SNS. 
+   * A set of **plugins** to communicate with different platforms. 
+   * A set of sample **applications** to show you the usage.  
+   * A Command Line Interface (**CLI**) to enable 
+   **STDIN/STDOUT** interface with users and any other languages. 
+
 ## Demo
 
 ### Using the CLI
@@ -264,11 +280,13 @@ Here's a few pointers:
    * Modify "snsconf.py" which contains some hardcode configurations. 
    e.g. write log to file. 
    * Look at the sample applications in "app" folder. 
-   You will soon find how to write application based on Python class interface. 
+   You will soon find how to write application using Python class interface. 
+   Write some **killer applications** on it. 
    * Register one account on [Github](https://github.com/)
    and [join us](https://github.com/uxian/snsapi). 
-   Contribute codes, wikis, issues, etc. 
+   **Contribute codes, wikis, issues, etc**. 
    All are welcome. 
+
 
 ----------------
 
