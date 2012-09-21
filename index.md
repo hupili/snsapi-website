@@ -54,3 +54,15 @@ $echo -e 'load_config()\nauth()\nprint home_timeline(10)' | python -i snscli.py 
 ```
 
 ## What's Next
+
+
+----------------
+
+Last Compile At: 
+{evermd:var:begin}
+now
+{evermd:var:end}
+
+{evermd:var:begin}
+evermd
+{evermd:var:end}
