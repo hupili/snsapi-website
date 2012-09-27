@@ -15,7 +15,8 @@ https://snsapi.ie.cuhk.edu.hk/        _       |
 
    * SNSAPI website: [https://snsapi.ie.cuhk.edu.hk/](https://snsapi.ie.cuhk.edu.hk/)
    * Github repository: [https://github.com/hupili/snsapi](https://github.com/hupili/snsapi)
-   * Download SNSAPI 0.1: [down/snsapi-0.1.zip](down/snsapi-0.1.zip) 
+   * Download SNSAPI 0.1: [snsapi-0.1.zip](down/snsapi-0.1.zip) 
+   * What's New?: [news](news/index.html)
 
 {evermd:comment:begin}
 ## Motivation
