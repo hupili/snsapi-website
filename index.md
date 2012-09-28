@@ -19,6 +19,11 @@ https://snsapi.ie.cuhk.edu.hk/        _       |
    * [What's New?](news/index.html)
    * [SNSAPI Blog](blog/index.html)
 
+### For Developers
+
+   * [SNSAPI doc](doc/)
+   * [SNSAPI inline TODO](todo/)
+
 {evermd:comment:begin}
 ## Motivation
 
