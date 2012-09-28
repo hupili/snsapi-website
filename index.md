@@ -32,7 +32,7 @@ https://snsapi.ie.cuhk.edu.hk/        _       |
    * Focus more on information itself rather than where and how to get it. 
 {evermd:comment:end}
 
-## It Is
+## SNSAPI Is
 
    * A Python **middleware** for all kinds of SNS. 
    * A set of **plugins** to communicate with different platforms. 
