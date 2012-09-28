@@ -1,6 +1,6 @@
 #!/bin/bash
 
-for fmd in *.md
+for fmd in index.md
 do
 	echo $fmd
 	file=${fmd%.md}	

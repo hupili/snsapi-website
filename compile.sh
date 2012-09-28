@@ -8,4 +8,6 @@ do
 	${HOME}/utils/evermd -o $file.html -t $file.t.html -n '\[% body %\]' $file.md
 done
 
+cd blog ; bash ./compile.sh; cd - &> /dev/null
+
 exit 0 
