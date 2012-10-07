@@ -247,7 +247,7 @@ Now, let's enter the 10-minute step by step tutorial:
 
    * First you need [Python2.7](http://www.python.org/getit/releases/2.7/). 
    * Get a copy of SNSAPI: [Download SNSAPI 0.1](down/snsapi-0.1.zip); 
-   Or go to [Github](https://github.com/uxian/snsapi) for latest development branch. 
+   Or go to [Github](https://github.com/hupilisnsapi) for latest development branch. 
    * Unzip the package and 
    
 ```
@@ -292,7 +292,7 @@ Here's a few pointers:
    You will soon find how to write application using Python class interface. 
    Write some **killer applications** on it. 
    * Register one account on [Github](https://github.com/)
-   and [join us](https://github.com/uxian/snsapi). 
+   and [join us](https://github.com/hupilisnsapi). 
    **Contribute codes, wikis, issues, etc**. 
    All are welcome. 
 
