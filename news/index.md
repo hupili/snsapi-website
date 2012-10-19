@@ -6,6 +6,23 @@
 
 ## What's New
 
+### 20121019. We are under intensive reconstruction!
+
+For those who want to catch up with the latest progress, 
+please checkout the	`dev` branch!
+
+We are under intensive reconstruction and it's almost done. 
+
+Two new platforms are enabled:
+
+   * SQLite. 
+   * TwitterStatus
+
+They are in the `plugin_trial` directory. 
+So you have to enable trial plugin first. 
+Please see `snsapi/platform.py` for the instructions of 
+how to enable trial plugins. 
+
 ### 20120928. The blog site is up. 
 
 Everyone can add a blog post using Github. Just fork the 
