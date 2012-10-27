@@ -6,6 +6,20 @@
 
 ## What's New
 
+### 20121027. SNSAPI 0.2 is released. 
+
+Big changes in 0.2:
+
+   * New platform reference mechanism. 
+   Support trial platforms. 
+   * One module file -> multiple platforms. 
+   This allows better code reuse. 
+   * Message class is re-designed. 
+   * Three levels of Message dump methods for different application. 
+   * Add SQLite platform. 
+   * Add Email platform. 
+   * Add Twitter platform. 
+
 ### 20121027. The second round of restructuring is done. 
 
 We merged the 'dev' branch to 'master' today. 
