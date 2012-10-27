@@ -6,6 +6,13 @@
 
 ## What's New
 
+### 20121027. The second round of restructuring is done. 
+
+We merged the 'dev' branch to 'master' today. 
+The second round of restructuring is done. 
+There are yet some other enhancements to be done, 
+especially for those newly added platforms. 
+
 ### 20121019. We are under intensive reconstruction!
 
 For those who want to catch up with the latest progress, 
