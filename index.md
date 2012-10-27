@@ -15,7 +15,8 @@ https://snsapi.ie.cuhk.edu.hk/        _       |
 
    * SNSAPI website: [https://snsapi.ie.cuhk.edu.hk/](https://snsapi.ie.cuhk.edu.hk/)
    * Github repository: [https://github.com/hupili/snsapi](https://github.com/hupili/snsapi)
-   * Download SNSAPI 0.1: [snsapi-0.1.zip](down/snsapi-0.1.zip) 
+   * Download: [snsapi-0.2.zip](https://github.com/hupili/snsapi/zipball/v0.2)
+   * Download: [snsapi-0.2.tar.gz](https://github.com/hupili/snsapi/tarball/v0.2)
    * SNSAPI Wiki: [https://github.com/hupili/snsapi/wiki](https://github.com/hupili/snsapi/wiki)
    * [What's New?](news/index.html)
    * [SNSAPI Blog](blog/index.html)
@@ -24,6 +25,9 @@ https://snsapi.ie.cuhk.edu.hk/        _       |
 
    * [SNSAPI doc](doc/)
    * [SNSAPI inline TODO](todo/)
+   * [SNSAPI dev branch (zip)](https://github.com/hupili/snsapi/zipball/dev)
+   * [SNSAPI dev branch (tar.gz)](https://github.com/hupili/snsapi/tarball/dev)
+   * Download SNSAPI 0.2: [https://github.com/hupili/snsapi/zipball/v0.2](https://github.com/hupili/snsapi/zipball/v0.2)
 
 {evermd:comment:begin}
 ## Motivation
