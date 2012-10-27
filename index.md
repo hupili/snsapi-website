@@ -27,7 +27,7 @@ https://snsapi.ie.cuhk.edu.hk/        _       |
    * [SNSAPI inline TODO](todo/)
    * [SNSAPI dev branch (zip)](https://github.com/hupili/snsapi/zipball/dev)
    * [SNSAPI dev branch (tar.gz)](https://github.com/hupili/snsapi/tarball/dev)
-   * Download SNSAPI 0.2: [https://github.com/hupili/snsapi/zipball/v0.2](https://github.com/hupili/snsapi/zipball/v0.2)
+   * [Past Downloads](down/index.html)
 
 {evermd:comment:begin}
 ## Motivation

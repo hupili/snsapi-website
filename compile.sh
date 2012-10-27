@@ -1,6 +1,6 @@
 #!/bin/bash
 
-for fmd in "index.md" "news/index.md" 
+for fmd in "index.md" "news/index.md" "down/index.md"
 do
 	echo $fmd
 	file=${fmd%.md}	
