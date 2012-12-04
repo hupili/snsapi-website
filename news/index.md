@@ -6,6 +6,31 @@
 
 ## What's New
 
+### 20121204. SNSAPI 0.3 is released. 
+
+From 0.2 to 0.3, a lot of micro improvements take place. 
+During this time, one representative app 
+[SNSRouter](https://github.com/hupili/sns-router)
+is developed. 
+Many modifications are based on the feedback from SNSRouter.
+
+Big changes in 0.3:
+
+   * Restructure nested Message class, 
+   allowing them to be pickled. 
+   * Fault tolerant auth flow. 
+   * Fault tolerant HTTP request/response. 
+
+Minor functional changes in 0.3:
+
+   * A `report_time` decorator is added to `utils`.
+   You can use it to get execution time of functions. 
+   * A `require_authed` decorator is added to `snsbase`. 
+   Plugin developers should put it before the methods, 
+   whose invokation require a authed state. 
+   * Fix Tencent Weibo html entity problem. 
+   The texts in Message object is unified to have html entities unescaped. 
+
 ### 20121027. SNSAPI 0.2 is released. 
 
 Big changes in 0.2:
