@@ -29,6 +29,21 @@ https://snsapi.ie.cuhk.edu.hk/        _       |
    * [SNSAPI dev branch (tar.gz)](https://github.com/hupili/snsapi/tarball/dev)
    * [Past Downloads](down/index.html)
 
+### Selected Applications
+
+Welcome to contact the admin to add your application to this list. 
+We look forward to hearing your successful stories or complaints when using SNSAPI. 
+
+   * [SNSRouter](https://github.com/hupili/sns-router)
+   uses SNSAPI as the backend and develops a web frontend using "bottle" as the micro-framework. 
+   One can do tagging, archiving, and forwarding in a cross-platform manner efficiently using SNSRouter. 
+   The SQLite db is lightweight and highly portable. 
+   One can analyze the data for self interest. 
+   There is also one simple algorithm framework. 
+   It is easy to define features for your self and the algorithm can 
+   rank incoming messages reasonably, thus improving your efficiency in this 
+   networked era. 
+
 {evermd:comment:begin}
 ## Motivation
 
