@@ -6,6 +6,13 @@
 
 ## What's New
 
+### 20130117. We are looking summer intern/RA
+
+If you are interested in related problem of Decentralized Social Network
+and want to practice/expand your skill in the summer,
+please read our
+[2013 Summer Program Page](../2013summer/index.html).
+
 ### 20121204. SNSAPI 0.3 is released. 
 
 From 0.2 to 0.3, a lot of micro improvements take place. 
