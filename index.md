@@ -25,6 +25,9 @@ We are looking for killed intern/RA for Decentralized Social Network.
 If you have interest, please 
 [read further](2013summer/index.html). 
 
+Problems, suggestions, and all other SNSAPI related discussions 
+can go to the Google group: snsapi@googlegroups.com
+
 ### For Developers
 
    * [SNSAPI doc](doc/)
