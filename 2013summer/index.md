@@ -69,6 +69,7 @@ Further enquires can be directed to
 
    * [1] SNSAPI: https://github.com/hupili/snsapi
    * [2] SNSRouter: https://github.com/hupili/sns-router
+   * [3] SNSAPI Website: https://snsapi.ie.cuhk.edu.hk
 
 ### Frequently Asked Questions
 
