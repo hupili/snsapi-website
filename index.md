@@ -318,7 +318,7 @@ Here's a few pointers:
    You will soon find how to write application using Python class interface. 
    Write some **killer applications** on it. 
    * Register one account on [Github](https://github.com/)
-   and [join us](https://github.com/hupilisnsapi). 
+   and [join us](https://github.com/hupili/snsapi). 
    **Contribute codes, wikis, issues, etc**. 
    All are welcome. 
 
