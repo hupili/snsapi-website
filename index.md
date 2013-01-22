@@ -21,7 +21,7 @@ https://snsapi.ie.cuhk.edu.hk/        _       |
    * [What's New?](news/index.html)
    * [SNSAPI Blog](blog/index.html)
 
-We are looking for killed intern/RA for Decentralized Social Network. 
+We are looking for skilled intern/RA for Decentralized Social Network. 
 If you have interest, please 
 [read further](2013summer/index.html). 
 
