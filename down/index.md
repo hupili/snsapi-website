@@ -2,6 +2,8 @@
 
 ## Past downloads
 
+   * [snsapi-0.4.zip](https://github.com/hupili/snsapi/archive/v0.4.zip)
+   * [snsapi-0.4.tar.gz](https://github.com/hupili/snsapi/archive/v0.4.tar.gz)
    * [snsapi-0.3.zip](https://github.com/hupili/snsapi/archive/v0.3.zip)
    * [snsapi-0.3.tar.gz](https://github.com/hupili/snsapi/archive/v0.3.tar.gz)
    * [snsapi-0.2.zip](https://github.com/hupili/snsapi/zipball/v0.2)

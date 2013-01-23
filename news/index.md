@@ -6,6 +6,22 @@
 
 ## What's New
 
+### 20130117. SNSAPI 0.4 is released. 
+
+Major arch and functional changes:
+
+   * Use `requirement.txt` to maintain dependency. 
+   * Change to nosetests. 
+   * Add a "clock" demo app. 
+   * Rewrite "forwarder" using new architecture. 
+
+Minor changes, mainly for bugfix:
+
+   * New auth flow functions: `is_authed`, `need_auth`, `is_expired`. 
+   * Support limiting home_timeline's count by config. (handy to operate multiple channels). 
+   * JsonDict function support stronger `get`: enumerate a list of properties. (handy to parse different version of data source)
+   * Fix an RSS date parsing error. 
+
 ### 20130117. We are looking summer intern/RA
 
 If you are interested in related problem of Decentralized Social Network
