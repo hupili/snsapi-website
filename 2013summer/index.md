@@ -1,14 +1,14 @@
-# Intern/RA Program for 2013 Summer
+# Intern/RA Program for Summer 2013
 
-We are looking for skilled intern to participate in 
-Decentralized Social Network R/D program. 
+We are looking for multiple Summer Interns/ RAs to participate in 
+a Decentralized Social Network R/D project. 
 
 [PDF Version](ad2013summer.pdf)
 of the following AD (old). 
 
 For updated information, please come back to this page frequently. 
 
-## Seeking Skilled Summer Interns / Research Assistants for Decentralized Social Network Research in The Chinese University of Hong Kong
+## Seeking Skilled Summer Interns / Research Assistants for Decentralized Social Network Research in The Chinese University of Hong Kong(CUHK)
 
 The Mobile Technology Centre (MobiTec) ( [http://mobitec.ie.cuhk.edu.hk](http://mobitec.ie.cuhk.edu.hk) )
 of The Chinese University of Hong Kong (CUHK) has multiple openings for Internship and 
