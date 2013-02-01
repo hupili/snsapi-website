@@ -8,7 +8,17 @@ of the following AD (old).
 
 For updated information, please come back to this page frequently. 
 
-## Seeking Skilled Summer Interns / Research Assistants for Decentralized Social Network Research in The Chinese University of Hong Kong(CUHK)
+--------
+
+<p style="font-size:25pt;margin-top:0.5em;text-align:center">
+Seeking Skilled Summer Interns / Research Assistants 
+<br/>
+<br/>
+for Decentralized Social Network Research 
+<br/>
+<br/>
+in The Chinese University of Hong Kong (CUHK)
+</p>
 
 The Mobile Technology Centre (MobiTec) ( [http://mobitec.ie.cuhk.edu.hk](http://mobitec.ie.cuhk.edu.hk) )
 of The Chinese University of Hong Kong (CUHK) has multiple openings for Internship and 
