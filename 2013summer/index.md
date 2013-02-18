@@ -74,7 +74,7 @@ Interested applicants have to go through the following application procedure:
    * Register your information via this [Google form](https://docs.google.com/spreadsheet/embeddedform?formkey=dEZaT2xQRldQaW12ekZ6dVVVU2puTFE6MQ).
    * Send your Curriculum Vitae, Research Proposal (if any),
    Personal Statement (if any) to: 
-   [snsapi@ie.cuhk.edu.hk](mailto:snsapi@ie.cuhk.edu.hk).
+   [snsapi [at] ie [dot] cuhk [dot] edu [dot] hk](mailto:snsapi [at] ie [dot] cuhk [dot] edu [dot] hk).
    Please send in PDF format and name your attachment as:
    `cv_name_university.pdf` ( **CV** );
    `rp_name_university.pdf` ( **RP** ). 
@@ -89,7 +89,7 @@ Interested applicants have to go through the following application procedure:
 ### Enquiry:
 
 Further enquires can be directed to
-[snsapi@ie.cuhk.edu.hk](mailto:snsapi@ie.cuhk.edu.hk).
+[snsapi [at] ie [dot] cuhk [dot] edu [dot] hk](mailto:snsapi [at] ie [dot] cuhk [dot] edu [dot] hk).
 
 ### Reference: 
 
