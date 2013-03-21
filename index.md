@@ -16,8 +16,12 @@ https://snsapi.ie.cuhk.edu.hk/        _       |
    * SNSAPI website: [https://snsapi.ie.cuhk.edu.hk/](https://snsapi.ie.cuhk.edu.hk/)
    * SNSAPI website (CN): [http://snsapi.sinaapp.com/](http://snsapi.sinaapp.com/)
    * Github repository: [https://github.com/hupili/snsapi](https://github.com/hupili/snsapi)
-   * Download [snsapi-0.4.1.zip](https://github.com/hupili/snsapi/archive/v0.4.1.zip)
-   * Download [snsapi-0.4.1.tar.gz](https://github.com/hupili/snsapi/archive/v0.4.1.tar.gz)
+   * Download latest stable SNSAPI: 
+   &nbsp;&nbsp;&nbsp;&nbsp; [[zip]](https://github.com/hupili/snsapi/zipball/master)
+   &nbsp;&nbsp;&nbsp;&nbsp; [[tar.gz]](https://github.com/hupili/snsapi/tarball/master)
+   * Download latest development SNSAPI: 
+   &nbsp;&nbsp;&nbsp;&nbsp; [[zip]](https://github.com/hupili/snsapi/zipball/dev)
+   &nbsp;&nbsp;&nbsp;&nbsp; [[tar.gz]](https://github.com/hupili/snsapi/tarball/dev)
    * SNSAPI Wiki: [https://github.com/hupili/snsapi/wiki](https://github.com/hupili/snsapi/wiki)
    * [What's New?](news/index.html)
    * [SNSAPI Blog](blog/index.html)
