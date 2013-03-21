@@ -25,5 +25,6 @@ if __name__ == '__main__':
             #print t['name']
             #print render_version(t)
             lst.append(render_version(t))
-    open(FN_MD, 'w').write(open(FN_TPL).read() + '\n'.join(lst))
-
+    tpl = open(FN_TPL).read()
+    html = tpl.replace('{{TAG_LIST}}', '\n'.join(lst))
+    open(FN_MD, 'w').write(html)

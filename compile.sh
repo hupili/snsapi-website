@@ -1,8 +1,11 @@
 #!/bin/bash
 
+PY_BIN="/usr/local/bin/python"
+#PY_BIN="python"
+
 # Preprocessing
 cd down
-python gettags.py
+$PY_BIN gettags.py
 cd -
 
 # Generate HTML from MD
