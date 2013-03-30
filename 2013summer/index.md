@@ -181,4 +181,18 @@ no matter which channel you go,
 you don't have to worry about the expense. 
 We'll ask your preference in the 2nd round of interview. 
 
+### Result Announcement
 
+After interview and mutual agreement on the offer, 
+the following students will come to CUHK this summer (2013):
+
+   * LIN Huiwen, Northwest University of China, Undergraduate Year 4, 
+   [@xuanqinanhai](http://github.com/xuanqinanhai)
+   * GUO Rui, Harbin Institute of Technology, Undergraduate Year 3, 
+   [@guori12321](http://github.com/guori12321)
+   * FAN Qijiang, Huazhong University of Science and Technology, Undergraduate Year 2, 
+   [@fqj1994](http://github.com/fqj1994)
+
+We are constantly looking for skilled interns to participate in similar projects. 
+The intern period can be both summer or winter vocation subject your availability.
+If you have interest, please stay close with our community. 
