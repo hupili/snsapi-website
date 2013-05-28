@@ -6,6 +6,15 @@
 
 ## What's New
 
+### 20130528. SNSAPI 0.4.4 is released. 
+
+After the release of 0.4, there were 4 small versions. 
+
+See `VERSION.md` for more details.
+
+Now we do not mannually update the download link of this site. 
+Latest links and historical links are grep from GitHub automatically. 
+
 ### 20130117. SNSAPI 0.4 is released. 
 
 Major arch and functional changes:
