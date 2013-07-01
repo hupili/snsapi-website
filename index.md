@@ -278,9 +278,14 @@ Congratulations! You already get a overall picture of snscli.
 Now, let's enter the 10-minute step by step tutorial:
 
    * First you need [Python2.7](http://www.python.org/getit/releases/2.7/). 
-   * Get a copy of SNSAPI: [Download SNSAPI 0.1](down/snsapi-0.1.zip); 
-   Or go to [Github](https://github.com/hupilisnsapi) for latest development branch. 
-   * Unzip the package and 
+   * Download latest stable version 
+   (
+   [[zip]](https://github.com/hupili/snsapi/zipball/master)
+   &nbsp;&nbsp; [[tar.gz]](https://github.com/hupili/snsapi/tarball/master)
+   )
+   * Unzip the package.
+   * Install dependencies: `[sudo] pip install -r requirements.txt`
+   * Enter the Command-Line-Interface:
    
 ```
 python -i snscli.py
@@ -318,6 +323,9 @@ We only present a preliminary demo of snscli for all users convenience.
 If you know how to code, please look into the project. 
 Here's a few pointers:
 
+   * Join our 
+   [SNSAPI Google Group](https://groups.google.com/forum/?fromgroups#!forum/snsapi)
+   for discussions.
    * Modify "snsconf.py" which contains some hardcode configurations. 
    e.g. write log to file. 
    * Look at the sample applications in "app" folder. 
