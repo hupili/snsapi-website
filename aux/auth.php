@@ -2,7 +2,7 @@
 $qs = $_SERVER['QUERY_STRING'];
 if ($qs !== ''){
 	header("Status: 301 Moved Permanently");
-	header("Location:http://localhost:12121/auth.php" . $qs);
+	header("Location:http://localhost:12121/auth.php?" . $qs);
 } else {
 	header("Status: 200 OK");
 	echo "It looks like you do not have querystring.";
