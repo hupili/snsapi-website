@@ -1,7 +1,7 @@
 # SNSAPI -- Your Fist Hop to Reshape the Landscape of SNS!
 
 ```
-https://snsapi.ie.cuhk.edu.hk/        _       |
+ http://snsapi.ie.cuhk.edu.hk/        _       |
 ----------------------------->       (_)      X
   ___   _ __    ___    __ _   _ __    _    --X+X--
  / __| | '_ \  / __|  / _` | | '_ \  | |      X 
@@ -13,7 +13,7 @@ https://snsapi.ie.cuhk.edu.hk/        _       |
 
 ## Quick Links
 
-   * SNSAPI website: [https://snsapi.ie.cuhk.edu.hk/](https://snsapi.ie.cuhk.edu.hk/)
+   * SNSAPI website: [http://snsapi.ie.cuhk.edu.hk/](http://snsapi.ie.cuhk.edu.hk/)
    * SNSAPI website (CN): [http://snsapi.sinaapp.com/](http://snsapi.sinaapp.com/)
    * Github repository: [https://github.com/hupili/snsapi](https://github.com/hupili/snsapi)
    * Download latest stable SNSAPI: 
