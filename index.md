@@ -1,4 +1,4 @@
-# SNSAPI -- Your Fist Hop to Reshape the Landscape of SNS!
+# SNSAPI -- Your First Hop to Reshape the Landscape of SNS!
 
 ```
  http://snsapi.ie.cuhk.edu.hk/        _       |
