@@ -1,7 +1,7 @@
-# SNSAPI -- Your Fist Hop to Reshape the Landscape of SNS!
+# SNSAPI -- Your First Hop to Reshape the Landscape of SNS!
 
 ```
-https://snsapi.ie.cuhk.edu.hk/        _       |
+ http://snsapi.ie.cuhk.edu.hk/        _       |
 ----------------------------->       (_)      X
   ___   _ __    ___    __ _   _ __    _    --X+X--
  / __| | '_ \  / __|  / _` | | '_ \  | |      X 
@@ -13,7 +13,7 @@ https://snsapi.ie.cuhk.edu.hk/        _       |
 
 ## Quick Links
 
-   * SNSAPI website: [https://snsapi.ie.cuhk.edu.hk/](https://snsapi.ie.cuhk.edu.hk/)
+   * SNSAPI website: [http://snsapi.ie.cuhk.edu.hk/](http://snsapi.ie.cuhk.edu.hk/)
    * SNSAPI website (CN): [http://snsapi.sinaapp.com/](http://snsapi.sinaapp.com/)
    * Github repository: [https://github.com/hupili/snsapi](https://github.com/hupili/snsapi)
    * Download latest stable SNSAPI: 
@@ -278,9 +278,14 @@ Congratulations! You already get a overall picture of snscli.
 Now, let's enter the 10-minute step by step tutorial:
 
    * First you need [Python2.7](http://www.python.org/getit/releases/2.7/). 
-   * Get a copy of SNSAPI: [Download SNSAPI 0.1](down/snsapi-0.1.zip); 
-   Or go to [Github](https://github.com/hupilisnsapi) for latest development branch. 
-   * Unzip the package and 
+   * Download latest stable version 
+   (
+   [[zip]](https://github.com/hupili/snsapi/zipball/master)
+   &nbsp;&nbsp; [[tar.gz]](https://github.com/hupili/snsapi/tarball/master)
+   )
+   * Unzip the package.
+   * Install dependencies: `[sudo] pip install -r requirements.txt`
+   * Enter the Command-Line-Interface:
    
 ```
 python -i snscli.py
@@ -318,6 +323,9 @@ We only present a preliminary demo of snscli for all users convenience.
 If you know how to code, please look into the project. 
 Here's a few pointers:
 
+   * Join our 
+   [SNSAPI Google Group](https://groups.google.com/forum/?fromgroups#!forum/snsapi)
+   for discussions.
    * Modify "snsconf.py" which contains some hardcode configurations. 
    e.g. write log to file. 
    * Look at the sample applications in "app" folder. 
